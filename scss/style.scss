@@ -1,20 +1,22 @@
-@import "_header";
+@import "_nullStyle";
 
-body {
-	font-size: 20px;
+.example {
+	font-size: 50px;
 
-	div {
-		font-size: 10px;
+	&__block {
+		visibility: hidden;
+		margin: 30px;
 	}
-}
-.block {
-
-	&__item {
+z
+	&__string {
+		display: inline-block;
+		border: 5px dashed #000;
+		margin: 0 0 30px 0;
 	}
 
-	&__eeqw {
-	}
-
-	&__ewqeq {
+	&__img {
+		border-radius: 120px;
+		height: 200px;
+		width: 200px;
 	}
 }
