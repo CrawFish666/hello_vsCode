@@ -87,7 +87,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 body {
-  background: url(/img/bg.png) 55% 105px no-repeat;
+  background: url(./img/bg.png) 55% 105px no-repeat;
   background-color: #e8e8e8;
 }
 
@@ -157,7 +157,7 @@ body {
 }
 
 .content-bottom__list li {
-  background: url(/img/icons/check.png) left no-repeat;
+  background: url(./img/icons/check.png) left no-repeat;
   padding-left: 35px;
   margin-bottom: 13px;
   font-size: 20px;
@@ -209,5 +209,5 @@ body {
   text-transform: uppercase;
   letter-spacing: 2.8px;
   padding-right: 30px;
-  background: url(/img/icons/arrow.svg) right no-repeat;
+  background: url(./img/icons/arrow.svg) right no-repeat;
 }
